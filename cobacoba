@@ -1,0 +1,36 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://doc.skuyytv.xyz/1:/Lokal%20FTA/ANTV.png" tvg-id="antv.id" group-title="INDONESIA",ANTV #1
+https://streaming.indihometv.com/atm/DASH/ANTV/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://doc.skuyytv.xyz/1:/Lokal%20FTA/ANTV.png" tvg-id="antv.id" group-title="INDONESIA",ANTV #2
+https://cempedak-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://doc.skuyytv.xyz/1:/Lokal%20FTA/ANTV.png" tvg-id="antv.id" group-title="INDONESIA",ANTV #3
+https://cempedak-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+
+#EXTINF:-1 tvg-logo="https://doc.skuyytv.xyz/1:/Lokal%20FTA/ANTV.png" tvg-id="antv.id" group-title="INDONESIA",ANTV #4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://doc.skuyytv.xyz/1:/Lokal%20FTA/ANTV.png" tvg-id="antv.id" group-title="INDONESIA",ANTV #5
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://cempedak-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+
+#EXTINF:-1 tvg-logo="https://doc.skuyytv.xyz/1:/Lokal%20FTA/ANTV.png" tvg-id="antv.id" group-title="INDONESIA",ANTV #6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+https://streaming.indihometv.com/atm/DASH/ANTV/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://doc.skuyytv.xyz/1:/Lokal%20FTA/ANTV.png" tvg-id="antv.id" group-title="INDONESIA",ANTV #7
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch108.m3u8
